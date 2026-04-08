@@ -1,5 +1,3 @@
-# AI-Powered-Aadhaar-Risk-Intelligence-System
-
 # UIDAI-Project
 AADHAAR BIOMETRIC AND DEMOGRAPHIC UPDATE ANALYSIS
 =================================================
